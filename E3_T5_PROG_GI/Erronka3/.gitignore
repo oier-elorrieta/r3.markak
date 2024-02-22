@@ -1,0 +1,7 @@
+# Ignorar directorios
+.settings/
+bin/
+target/
+
+# Ignorar archivo específico
+miglayout-src.zip
